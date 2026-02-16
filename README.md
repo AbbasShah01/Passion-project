@@ -2,6 +2,10 @@
 
 Generate and save Pakistan-focused social media meme ideas with Next.js, Supabase Auth/DB, and Anthropic Claude.
 
+## Preview
+
+![Trend Generator Preview](public/preview.png)
+
 ## 1. Setup Instructions
 
 1. Clone the repository:
